@@ -13,7 +13,7 @@ footer div div span{
       font-weight: 700;
   }
   .texto span{
-      font-size: 11px;
+      font-size: 20px;
   }
 
   .tex h2{
@@ -46,10 +46,32 @@ footer div div span{
     text-align: center;
     padding-top: 13rem;
     padding-bottom: 50px;
-   
-    
-     }
+        }
+
+     .img_b h4{
+        font-family: 'Open Sans', sans-serif;
+        font-weight: bold;
+        font-size: 20px;
+        color: black;
+               
+            }
+    .img_b h5{
+        font-family: 'Open Sans', sans-serif;
+        font-weight: bold;
+        font-size: 40px;
+        color: black;
+           
+          }
 
      .ca h3{
          color: black;
+     }
+
+     .pad li{
+         font-size: 13px;
+         font-family: 'Raleway', sans-serif;
+         font-weight: 510;
+         color: black;
+         line-height : 30px;
+        
      }
